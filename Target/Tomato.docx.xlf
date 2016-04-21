@@ -92,11 +92,13 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="5" style="font-weight:bold;color:#4F81BD;"&gt;</bpt>ucumber<ept
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="4" style="font-weight:bold;color:#4F81BD;"&gt;</bpt>Pepino<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
         id="4"
         restype="word"
         phase-name="pretrans"><source>Green</source><seg-source><mrk
